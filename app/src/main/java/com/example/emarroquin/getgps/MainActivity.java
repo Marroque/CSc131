@@ -1,5 +1,5 @@
 package com.example.emarroquin.getgps;
-//TESTING
+//I HAVE ALTERED THE TEST. PRAY I DON'T ALTER IT FURTHER.
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
